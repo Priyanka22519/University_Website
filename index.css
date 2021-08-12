@@ -1,0 +1,53 @@
+/* index.... */
+
+.img1
+{
+height: 400px;
+width:100%;
+}
+.name
+{
+text-transform: uppercase;
+color:  rgb(116, 211, 218);
+
+}
+.p1
+{
+text-align: center;
+font-weight: 300;
+font-size: 35px;
+color: rgb(48, 10, 136);
+}
+/* .social 
+{
+text-align: center;
+padding-bottom: 5px;
+} */
+.socials i
+{
+font-size: 20px;
+color: whitesmoke;
+padding: 5px 5px;
+}
+.Copyright
+{
+background-color: royalblue;
+width: 1300px;
+
+}
+h4
+{
+color: rgb(19, 97, 97);
+}
+.sauimg
+{
+height: 150px;
+}
+.logo
+{
+height: 150px;
+width: 150px;
+}
+
+
+/* About us...  */
